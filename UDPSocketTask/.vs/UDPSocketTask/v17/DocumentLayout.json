@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\OneDrive\\Documents\\C\u002B\u002B Network\\UDPSocketTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CE05D8-72B9-408C-BF97-CA845428B29A}|UDPSocketTask\\UDPSocketTask.vcxproj|C:\\Users\\ADMIN\\OneDrive\\Documents\\C\u002B\u002B Network\\UDPSocketTask\\UDPSocketTask\\UDPSocketTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3CE05D8-72B9-408C-BF97-CA845428B29A}|UDPSocketTask\\UDPSocketTask.vcxproj|solutionrelative:UDPSocketTask\\UDPSocketTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UDPSocketTask.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Documents\\C\u002B\u002B Network\\UDPSocketTask\\UDPSocketTask\\UDPSocketTask.cpp",
+              "RelativeDocumentMoniker": "UDPSocketTask\\UDPSocketTask.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Documents\\C\u002B\u002B Network\\UDPSocketTask\\UDPSocketTask\\UDPSocketTask.cpp",
+              "RelativeToolTip": "UDPSocketTask\\UDPSocketTask.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T06:06:23.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

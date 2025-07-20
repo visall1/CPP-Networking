@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\OneDrive\\Documents\\C\u002B\u002B Network\\ServerCPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCE8DD-D713-445D-A5AB-1600BE2B86AB}|ServerCPP\\ServerCPP.vcxproj|C:\\Users\\ADMIN\\OneDrive\\Documents\\C\u002B\u002B Network\\ServerCPP\\ServerCPP\\ServerCPP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4BCE8DD-D713-445D-A5AB-1600BE2B86AB}|ServerCPP\\ServerCPP.vcxproj|solutionrelative:ServerCPP\\ServerCPP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServerCPP.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Documents\\C\u002B\u002B Network\\ServerCPP\\ServerCPP\\ServerCPP.cpp",
+              "RelativeDocumentMoniker": "ServerCPP\\ServerCPP.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Documents\\C\u002B\u002B Network\\ServerCPP\\ServerCPP\\ServerCPP.cpp",
+              "RelativeToolTip": "ServerCPP\\ServerCPP.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T08:53:26.218Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

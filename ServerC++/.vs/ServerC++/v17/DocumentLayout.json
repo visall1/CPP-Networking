@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\OneDrive\\Documents\\C\u002B\u002B Network\\ServerC\u002B\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBE3B24-F43D-4483-965D-54B8C0FF107A}|ClientC\u002B\u002B\\ClientC\u002B\u002B.vcxproj|C:\\Users\\ADMIN\\OneDrive\\Documents\\C\u002B\u002B Network\\ServerC\u002B\u002B\\ClientC\u002B\u002B\\ClientC\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCBE3B24-F43D-4483-965D-54B8C0FF107A}|ClientC\u002B\u002B\\ClientC\u002B\u002B.vcxproj|solutionrelative:ClientC\u002B\u002B\\ClientC\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85DC520F-36D0-4775-A72D-BCECB860C0F1}|ServerC\u002B\u002B\\ServerC\u002B\u002B.vcxproj|C:\\Users\\ADMIN\\OneDrive\\Documents\\C\u002B\u002B Network\\ServerC\u002B\u002B\\ServerC\u002B\u002B\\ServerC\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85DC520F-36D0-4775-A72D-BCECB860C0F1}|ServerC\u002B\u002B\\ServerC\u002B\u002B.vcxproj|solutionrelative:ServerC\u002B\u002B\\ServerC\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServerC\u002B\u002B.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Documents\\C\u002B\u002B Network\\ServerC\u002B\u002B\\ServerC\u002B\u002B\\ServerC\u002B\u002B.cpp",
+              "RelativeDocumentMoniker": "ServerC\u002B\u002B\\ServerC\u002B\u002B.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Documents\\C\u002B\u002B Network\\ServerC\u002B\u002B\\ServerC\u002B\u002B\\ServerC\u002B\u002B.cpp",
+              "RelativeToolTip": "ServerC\u002B\u002B\\ServerC\u002B\u002B.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T12:55:00.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientC\u002B\u002B.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Documents\\C\u002B\u002B Network\\ServerC\u002B\u002B\\ClientC\u002B\u002B\\ClientC\u002B\u002B.cpp",
+              "RelativeDocumentMoniker": "ClientC\u002B\u002B\\ClientC\u002B\u002B.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Documents\\C\u002B\u002B Network\\ServerC\u002B\u002B\\ClientC\u002B\u002B\\ClientC\u002B\u002B.cpp",
+              "RelativeToolTip": "ClientC\u002B\u002B\\ClientC\u002B\u002B.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T13:36:53.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

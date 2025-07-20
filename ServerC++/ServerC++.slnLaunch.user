@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ServerC++\\ServerC++.vcxproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ClientC++\\ClientC++.vcxproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
